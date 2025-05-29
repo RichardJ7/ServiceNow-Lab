@@ -1,4 +1,5 @@
 <h1>ServiceNow Ticket Simulation</h1>
+<h2>Loom Video Walkthrough </h2>
 
 
 
@@ -12,7 +13,6 @@ Lab begins with first creating an account to begin the free developer instance o
 
 <h2>Types of Tickets </h2>
 After navigating to the incidents page, I am able to explore ticket interface and navigate the interface and search options to search the various types of tickets that can be created. I am able to see that additionally, I can update the status of the tickets directly from the interface and resolve these tickets. 
-<h2>Loom Video Walkthrough </h2>
 
 
 
