@@ -15,8 +15,7 @@ Lab begins with first creating an account to begin the free developer instance o
 <h2>Types of Tickets </h2>
 After navigating to the incidents page, I am able to explore ticket interface and navigate the interface and search options to search the various types of tickets that can be created. I am able to see that additionally, I can update the status of the tickets directly from the interface and resolve these tickets. 
 
-
-
+![image alt](https://github.com/RichardJ7/ServiceNow-Lab/blob/ff36d7ce82a04a859640de3b13f94b36c09f163a/ServiceNow2.png)
 <!--
  ```diff
 - text in red
